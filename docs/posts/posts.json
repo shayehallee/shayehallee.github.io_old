@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Shaye's Blog",
+    "description": "Welcome to my blog!",
+    "author": [
+      {
+        "name": "Shaye Hallee",
+        "url": "https://github.com/shayehallee"
+      }
+    ],
+    "date": "2022-01-29",
+    "categories": [],
+    "contents": "\r\nHello hello! This is the first post!\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-01-29T16:12:13-05:00",
+    "input_file": {}
+  }
+]
